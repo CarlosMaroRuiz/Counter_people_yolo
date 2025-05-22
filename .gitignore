@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar entornos virtuales comunes
+venv/
+env/
+ENV/
+
+# Ignorar archivos de configuración de editores
+.vscode/
+.idea/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
