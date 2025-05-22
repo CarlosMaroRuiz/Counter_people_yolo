@@ -5,8 +5,7 @@ Una aplicación ligera con interfaz sencilla para contar personas utilizando Ope
 ## ✨ Características
 
 - 🔍 Detección de personas en tiempo real
-- 📱 Interfaz de usuario sencilla e intuitiva
-- ⚡ Optimizado para dispositivos con pocos recursos
+- 📱 Interfaz de usuario sencill
 - 🤖 Utiliza modelo YOLO Tiny para mejor rendimiento
 - 🍓 Compatible con Raspberry Pi 4
 
